@@ -5,12 +5,13 @@
     font-family: sans-serif;
 }
 
-.app{
+body{
+    background-color: rgb(41, 40, 40);
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
-    background-color: rgb(36, 35, 35);
 }
 
 .calculator{
