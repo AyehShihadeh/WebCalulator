@@ -24,7 +24,7 @@ body{
 
 .calculator{
     background-color: rgb(190, 39, 90);
-    width: 50vw;
+    width: 60vw;
     max-width: 550px;
     min-height: 640px;
     display: flex;
